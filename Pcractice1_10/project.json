@@ -1,0 +1,14 @@
+{
+  "name": "Pcractice1_10",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6788.21983",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
